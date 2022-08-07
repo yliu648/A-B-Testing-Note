@@ -1,13 +1,13 @@
 # Product-Sense-Note
 
-#SaaS Business Model
-Essential SaaS characteristics:
+## SaaS Business Model
+### Essential SaaS characteristics:
 - Pricing is an essential factor in creating a successful SaaS business, so choose the pricing for your tiers carefully.
 - check_boxUnlike in an e-commerce business, stickiness is a key consideration for an SaaS business.
 - It's hard to convert the majority of the free users to paid users very quickly even if the busienss develops a great product.
 
 
-Timely Metrics:
+### Timely Metrics:
 For a SaaS business, by the time a user has churned, it’s too late — resurrecting a churned user is hard and acquiring a new one is costly. 
 The more timely metrics to predict churn ahead of time:
 - Time spent per day
@@ -17,7 +17,7 @@ Note that Time per session isn't a KPI for SaaS for predicting churn.
 
 
 
-Reduce churn: 
+### Reduce churn: 
 It’s hard for a SaaS business to stay in business with a high churn rate. Below are the measures that can be taken to reduce churn:
 - Identify the reasons for churn and take action. 
   To identify the reasons, conduct qualitative surveys and interviews, and read customer reviews to understand user pain points. 
