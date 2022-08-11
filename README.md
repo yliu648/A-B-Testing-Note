@@ -7,6 +7,17 @@
 - It's hard to convert the majority of the free users to paid users very quickly even if the busienss develops a great product.
 
 
+
+### key metric for SaaS businesses:
+- Customer Acquisition Cost
+- Churn
+- Conversion Rate
+- Customer Lifetime Value
+- Revenue per customer
+- Virality
+
+
+
 ### Timely Metrics:
 For a SaaS business, by the time a user has churned, it’s too late — resurrecting a churned user is hard and acquiring a new one is costly. 
 The more timely metrics to predict churn ahead of time:
@@ -27,3 +38,6 @@ It’s hard for a SaaS business to stay in business with a high churn rate. Belo
 - Interventions for users: Segment paid users by churn risk and apply corresponding interventions to each segment in the early stages.
 - Forward-looking strategies: Increase opportunities for upselling (the practice of selling a larger package) and 
   cross-selling (act of selling customers additional related products).
+
+
+
