@@ -41,3 +41,10 @@ It’s hard for a SaaS business to stay in business with a high churn rate. Belo
 
 
 
+### 5Cs example - company
+An early-stage SaaS company on project management wants to know if integrating a chatbot feature into its customer support system would help answer its customer’s questions faster. Before doing the A/B test, it would be useful to ask these questions regarding the company:
+- What goals are related to this feature?
+- What’s possible within the company’s current capabilities?
+- What other alternatives could be provided to improve customer support?
+
+
